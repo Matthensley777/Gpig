@@ -15,4 +15,4 @@
 * Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
 
 
-![Screenshot of site](/images/logo.png)
+![Screenshot of site](https://github.com/Matthensley777/Gpig/blob/master/images/Screen%20Shot%202017-08-22%20at%202.48.09%20PM.png)
